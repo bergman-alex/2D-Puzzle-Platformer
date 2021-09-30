@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 6319935426496564895}
   - component: {fileID: 6840981429363893794}
   - component: {fileID: 1697182396}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Portal
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -27,7 +27,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2043787670369704739}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -3.57, y: 1.52, z: 0}
+  m_LocalPosition: {x: -3.5, y: 1.5, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -70,8 +70,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: -1612416419
+  m_SortingLayer: 1
   m_SortingOrder: 0
   m_Sprite: {fileID: 2189510010676529607, guid: 17d6603c024e6364fb86cd0483efada9, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}

@@ -42,12 +42,12 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: Player
-    uniqueID: 1243123501
-    locked: 0
-  - name: Sign
+  - name: BehindPlayer
     uniqueID: 2682550877
     locked: 0
-  - name: Lettering
-    uniqueID: 257263107
+  - name: Interactable
+    uniqueID: 1056346965
+    locked: 0
+  - name: Player
+    uniqueID: 1243123501
     locked: 0
