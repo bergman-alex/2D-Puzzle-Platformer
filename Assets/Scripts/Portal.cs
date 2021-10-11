@@ -8,7 +8,6 @@ public class Portal : MonoBehaviour
 
   [System.NonSerialized] public bool active = true;
 
-
   private void OnTriggerEnter2D(Collider2D collider)
   {
     if (!linkedPortal)
